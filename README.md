@@ -12,6 +12,29 @@ The tech industry excites me because of the many different solutions to challeng
 
 ## Experience
 
+**Languages/Skills**
+Advanced skills in ruby and the rails framework.
+Advanced skills in SQL.
+Intermediate skills in JS and the react framework.
+Basic skills in Python and Java.
+Excellent TDD, DDD and Agile development skills.
+Very comfortable with ruby and the rails framework.
+Comfortable with JS and the react framework.
+Basic knowledge of Python and Java.
+
+**Makers Academy**
+
+Makers academy is a coding bootcamp based in London. It runs over four months and is heavily focused on Web Development using Ruby and JavaScript. TDD, DDD, MVC patterns, and Agile development are also heavily emphasised.  
+During my time at makers, I built 3 apps:
+The first project was an Airbnb clone in ruby and Sinatra.
+The second projects was a Facebook clone using rails. For my final project at Makers, I decided to challenge myself and showcase my learning ability. We built an app in JavaScript using the react framework. I had only limited previous exposure to JavaScript, and no experience with react. All my projects can be found on my GitHub.
+
+**Mountgrange Heritage** 
+
+Makers academy is a coding bootcamp based in London. It runs over four months and is heavily focused on Web Development using Ruby and JavaScript. During the course, I built three applications. 
+The course is mainly based in ruby and JS with the main database being PostgreSQL. I spent a lot of time building a Facebook clone using rails. For my final project at Makers, I decided to challenge myself and showcase my learning ability. We built an app in JavaScript using the react framework. I had only limited previous exposure to JavaScript, and no experience with react. All my projects can be found on my GitHub.
+
+
 **Mountgrange Heritage** (Oct-19 to Aug-20)  
 _Property Manager_
 
@@ -27,6 +50,7 @@ with an active in-house development team coming up with a variety of tech soluti
 I worked with the development team to create a specifically designed app to facilitate property inspections.
 
 ## Skills
+
 
 #### Great interpersonal skills
 
@@ -50,17 +74,9 @@ sure I also had the time to complete the necessary paper work and handle any mai
 
 ## Education
 
-#### Makers Academy (Sep-20 to Nov-20)
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
 #### Northumbria University (2012 - 2014)
 
--Biomedcal Science
-
+-Biomedical Science
 
 ## Hobbies
 
