@@ -11,9 +11,10 @@ The tech industry excites me because of the many different solutions to challeng
  which allows me to be creative in my approach to problem solving.
 
 ## Experience
-Languages  |Technologies | Testing Frameworks | Concepts | Tools |
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+| Languages  | Technologies  |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 **Languages/Skills**
 Advanced skills in ruby and the rails framework.
 Advanced skills in SQL.
