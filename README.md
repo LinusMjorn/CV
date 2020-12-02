@@ -12,6 +12,11 @@ The tech industry excites me because of the many different solutions to challeng
 
 ## Experience
 
+First Header  | Second Header | Third Header
+------------- | -------------   ------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
 **Languages/Skills**
 Advanced skills in ruby and the rails framework.
 Advanced skills in SQL.
