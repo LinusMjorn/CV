@@ -11,9 +11,9 @@ The tech industry excites me because of the many different solutions to challeng
  which allows me to be creative in my approach to problem solving.
 
 ## Experience
-| Languages  | Technologies  |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| Languages  | Technologies  | Testing | Concepts | Tools
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  |  Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 **Languages/Skills**
 Advanced skills in ruby and the rails framework.
