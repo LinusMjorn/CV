@@ -31,6 +31,7 @@ The tech industry excites me because of the many different solutions to challeng
           <li>SQL</li>
           <li>HTML5</li>
           <li>CSS3</li>
+         
         </ul>
       </td>
       <td style="vertical-align: top">
@@ -42,6 +43,7 @@ The tech industry excites me because of the many different solutions to challeng
           <li>PostgreSQL</li>
           <li>Github Actions</li>
           <li>Heroku</li>
+          <li>Bootstrap</li>
         </ul>
       </td>
       <td style="vertical-align: top">
@@ -72,7 +74,6 @@ The tech industry excites me because of the many different solutions to challeng
           <li>VSCode</li>
           <li>Git</li>
           <li>OSX</li>
-          <li>Bootstrap</li>
           <li>TablePlus</li>
         </ul>
       </td>
