@@ -10,19 +10,75 @@ working for a high end boutique estate agents in Notting Hill.
 The tech industry excites me because of the many different solutions to challenges,
  which allows me to be creative in my approach to problem solving.
 
-## Experience
-| Languages  | Technologies  | Testing | Concepts | Tools
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| - Ruby - JavaScript  | Content Cell  |  Content Cell  | Content Cell  | Content Cell  |
-**Languages/Skills**
-Advanced skills in ruby and the rails framework.
-Advanced skills in SQL.
-Intermediate skills in JS and the react framework.
-Basic skills in Python and Java.
-Excellent TDD, DDD and Agile development skills.
-Very comfortable with ruby and the rails framework.
-Comfortable with JS and the react framework.
-Basic knowledge of Python and Java.
+## Tech Skills
+
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Technologies</th>
+      <th>Testing Frameworks</th>
+      <th>Concepts</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Ruby</li>
+          <li>JavaScript</li>
+          <li>SQL</li>
+          <li>HTML5</li>
+          <li>CSS3</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Rails</li>
+          <li>Sinatra</li>
+          <li>Node.js</li>
+          <li>jQuery</li>
+          <li>PostgreSQL</li>
+          <li>Github Actions</li>
+          <li>Heroku</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>RSpec</li>
+          <li>Capybara</li>
+          <li>Jasmine</li>
+          <li>Jest</li>
+          <li>React Testing Library</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>XP/Agile methodology</li>
+          <li>TDD/BDD</li>
+          <li>Object-Oriented Design</li>
+          <li>Remote working</li>
+          <li>Pair programming</li>
+          <li>Continuous Integration & Deployment</li>
+          <li>Git workflow</li>
+          <li>Code reviews</li>
+          <li>MVC Pattern</li>
+          <li>RESTful APIs</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>VSCode</li>
+          <li>Git</li>
+          <li>OSX</li>
+          <li>Bootstrap</li>
+          <li>TablePlus</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 **Makers Academy**
 
