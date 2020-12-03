@@ -82,7 +82,6 @@ The tech industry excites me because of the many different solutions to challeng
 
 ## Soft Skills
 
-
 #### Great interpersonal skills
 
 Working as a property manager, I was the first contact for landlords, tenants and contractors.
@@ -117,26 +116,11 @@ The second projects was a Facebook clone using rails. For my final project at Ma
 
 ## Previous Jobs
 
-**Mountgrange Heritage** 
-
-Makers academy is a coding bootcamp based in London. It runs over four months and is heavily focused on Web Development using Ruby and JavaScript. During the course, I built three applications. 
-The course is mainly based in ruby and JS with the main database being PostgreSQL. I spent a lot of time building a Facebook clone using rails. For my final project at Makers, I decided to challenge myself and showcase my learning ability. We built an app in JavaScript using the react framework. I had only limited previous exposure to JavaScript, and no experience with react. All my projects can be found on my GitHub.
-
-
 **Mountgrange Heritage** (Oct-19 to Aug-20)  
 _Property Manager_
 
-- As I became increasingly interested in programming during this time,
-I tried to find challenges similar to coding wherever I could. For example,
-I automated parts of my team's tasks by creating complex spreadsheets in Excel.
-
 **Veeve** (Jul-17 to Apr-19)  
 _Property Manager_
-
-- Veeve is a company specialising in short term holiday lets,
-with an active in-house development team coming up with a variety of tech solutions.
-I worked with the development team to create a specifically designed app to facilitate property inspections.
-
 
 ## Hobbies
 
