@@ -31,7 +31,6 @@ The tech industry excites me because of the many different solutions to challeng
           <li>SQL</li>
           <li>HTML5</li>
           <li>CSS3</li>
-         
         </ul>
       </td>
       <td style="vertical-align: top">
