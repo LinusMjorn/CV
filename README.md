@@ -111,7 +111,7 @@ During my time at makers, I built 3 apps:
 The first project was an Airbnb clone in ruby and Sinatra.
 The second projects was a Facebook clone using rails. For my final project at Makers, I decided to challenge myself and showcase my learning ability. We built an app in JavaScript using the react framework. I had only limited previous exposure to JavaScript, and no experience with react. All my projects can be found on my GitHub.
 
-#### Northumbria University (2012 - 2014)
+### Northumbria University (2012 - 2014)
 
 -Biomedical Science
 
