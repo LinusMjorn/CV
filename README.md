@@ -80,34 +80,7 @@ The tech industry excites me because of the many different solutions to challeng
   </tbody>
 </table>
 
-**Makers Academy**
-
-Makers academy is a coding bootcamp based in London. It runs over four months and is heavily focused on Web Development using Ruby and JavaScript. TDD, DDD, MVC patterns, and Agile development are also heavily emphasised.  
-During my time at makers, I built 3 apps:
-The first project was an Airbnb clone in ruby and Sinatra.
-The second projects was a Facebook clone using rails. For my final project at Makers, I decided to challenge myself and showcase my learning ability. We built an app in JavaScript using the react framework. I had only limited previous exposure to JavaScript, and no experience with react. All my projects can be found on my GitHub.
-
-**Mountgrange Heritage** 
-
-Makers academy is a coding bootcamp based in London. It runs over four months and is heavily focused on Web Development using Ruby and JavaScript. During the course, I built three applications. 
-The course is mainly based in ruby and JS with the main database being PostgreSQL. I spent a lot of time building a Facebook clone using rails. For my final project at Makers, I decided to challenge myself and showcase my learning ability. We built an app in JavaScript using the react framework. I had only limited previous exposure to JavaScript, and no experience with react. All my projects can be found on my GitHub.
-
-
-**Mountgrange Heritage** (Oct-19 to Aug-20)  
-_Property Manager_
-
-- As I became increasingly interested in programming during this time,
-I tried to find challenges similar to coding wherever I could. For example,
-I automated parts of my team's tasks by creating complex spreadsheets in Excel.
-
-**Veeve** (Jul-17 to Apr-19)  
-_Property Manager_
-
-- Veeve is a company specialising in short term holiday lets,
-with an active in-house development team coming up with a variety of tech solutions.
-I worked with the development team to create a specifically designed app to facilitate property inspections.
-
-## Skills
+## Soft Skills
 
 
 #### Great interpersonal skills
@@ -129,12 +102,41 @@ While working for Veeve, my manager gave me complete autonomy to manage my own w
 I organised my own schedule, booking in visits to properties all over London whilst making
 sure I also had the time to complete the necessary paper work and handle any maintenance issues.
 
-
 ## Education
+
+### Makers Academy
+
+Makers academy is a coding bootcamp based in London. It runs over four months and is heavily focused on Web Development using Ruby and JavaScript. TDD, DDD, MVC patterns, and Agile development are also heavily emphasised.  
+During my time at makers, I built 3 apps:
+The first project was an Airbnb clone in ruby and Sinatra.
+The second projects was a Facebook clone using rails. For my final project at Makers, I decided to challenge myself and showcase my learning ability. We built an app in JavaScript using the react framework. I had only limited previous exposure to JavaScript, and no experience with react. All my projects can be found on my GitHub.
 
 #### Northumbria University (2012 - 2014)
 
 -Biomedical Science
+
+## Previous Jobs
+
+**Mountgrange Heritage** 
+
+Makers academy is a coding bootcamp based in London. It runs over four months and is heavily focused on Web Development using Ruby and JavaScript. During the course, I built three applications. 
+The course is mainly based in ruby and JS with the main database being PostgreSQL. I spent a lot of time building a Facebook clone using rails. For my final project at Makers, I decided to challenge myself and showcase my learning ability. We built an app in JavaScript using the react framework. I had only limited previous exposure to JavaScript, and no experience with react. All my projects can be found on my GitHub.
+
+
+**Mountgrange Heritage** (Oct-19 to Aug-20)  
+_Property Manager_
+
+- As I became increasingly interested in programming during this time,
+I tried to find challenges similar to coding wherever I could. For example,
+I automated parts of my team's tasks by creating complex spreadsheets in Excel.
+
+**Veeve** (Jul-17 to Apr-19)  
+_Property Manager_
+
+- Veeve is a company specialising in short term holiday lets,
+with an active in-house development team coming up with a variety of tech solutions.
+I worked with the development team to create a specifically designed app to facilitate property inspections.
+
 
 ## Hobbies
 
