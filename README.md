@@ -95,6 +95,9 @@ Whilst at Makers, I always volunteered to present our group projects to the coho
 
 ## Work Experience
 
+**University of Kent** (Jan-20 ongoing)  
+_Web Developer_
+
 **Mountgrange Heritage** (Oct-19 to Aug-20)  
 _Property Manager_
 
@@ -124,9 +127,4 @@ All my projects can be found on my GitHub.
 
 -Biomedical Science
 
-## Hobbies
 
-Cooking is one of my passions. I love spending whole days in the kitchen with friends,
-experimenting and creating new dishes.
-Running is another hobby of mine; I find it very beneficial for my mental and physical well-being to head out for an hour,
-get my heart pumping, and clear my head.
