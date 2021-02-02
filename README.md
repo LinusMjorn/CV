@@ -116,8 +116,8 @@ TDD, DDD, MVC patterns, and Agile development are also heavily emphasised.
 #### Apps Created
 
 •	Airbnb clone using Ruby and Sinatra. </br>
-•	Facebook clone using rails. 
-•	A home brew helper using React.
+•	Facebook clone using rails. </br>
+•	A home brew helper using React. </br>
 
 All my projects can be found on my GitHub.
 
