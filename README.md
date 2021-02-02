@@ -1,14 +1,7 @@
 ## Carl Linus Mjörnstedt
-
-A friendly, bright and hardworking individual who works great as part of a team; outgoing and determined,
-enjoys being challenged, and is always happy to hear constructive criticism.
-
-I have spent the last year working in the property industry,
-starting with managing student housing and finishing my career in 2020
-working for a high end boutique estate agents in Notting Hill.
-
-The tech industry excites me because of the many different solutions to challenges,
- which allows me to be creative in my approach to problem solving.
+A friendly, bright and hardworking individual who works great as part of a team. Outgoing and determined, enjoys being challenged, and is always happy to hear constructive criticism. I am very comfortable speaking in front of people and have excellent interpersonal skills.
+ When working with others, I strive towards cohesive, efficient, and collaborative teamwork. Learning to programme with no previous knowledge has given me complete confidence that I can quickly pick-up any language or skill given the chance.
+ I easily adapt to new environments and wholeheartedly believe I will be an asset to any team I join.
 
 ## Tech Skills
 
@@ -82,35 +75,41 @@ The tech industry excites me because of the many different solutions to challeng
 
 ## Soft Skills
 
-#### Great interpersonal skills
+#### Excellent Interpersonal Skills
 
-Working as a property manager, I was the first contact for landlords, tenants and contractors.
-Thus, I had to develop different processes for communicating and working
-with individuals in different roles and from diverse backgrounds.
+I am approachable, friendly, and trustworthy. During my time at Makers, many of my fellow students approached me when they encountered problems, be it with their code or something more personal.
+Working as a property manager, I was the first contact for landlords, tenants and contractors. Thus, I had to develop different processes for communicating and working 
+
 
 #### Creativity and Problem-Solving
 
-In 2018, I started playing Dungeons and Dragons, mainly as the Dungeon Master.
-I spent countless hours crafting characters, encounters,
-and locations for my party to explore, only for them to do something completely unpredictable,
-thus having to improvise and use my problem-solving skills to remedy the damage done.
+When programming, I heavily rely on my problem-solving skills. I find that following my usual methodical approach helps me decipher error messages and iron out bugs. My creative mind is also a huge help. During my time at Makers, I was known for coming up with innovative ideas for app features.
 
 #### Organisation and Time Management
 
-While working for Veeve, my manager gave me complete autonomy to manage my own work.
-I organised my own schedule, booking in visits to properties all over London whilst making
-sure I also had the time to complete the necessary paper work and handle any maintenance issues.
+While working for Veeve, my manager gave me complete autonomy to manage my own work. I organised my own schedule, booking in visits to properties all over London whilst making sure I also had the time to complete the required paperwork and handle any maintenance issues.
 
-## Education
+
+#### Public Speaking 
+Whilst at Makers, I always volunteered to present our group projects to the cohort. I enjoyed gaining an in-depth knowledge of every part of the projects and relaying them to the audience.  
+
+## Qualifications
 
 ### Makers Academy
 
-Makers academy is a coding bootcamp based in London. It runs over four months and is heavily focused on Web Development using Ruby and JavaScript. TDD, DDD, MVC patterns, and Agile development are also heavily emphasised.  
-During my time at makers, I built 3 apps:
-The first project was an Airbnb clone in ruby and Sinatra.
-The second projects was a Facebook clone using rails. For my final project at Makers, I decided to challenge myself and showcase my learning ability. We built an app in JavaScript using the react framework. I had only limited previous exposure to JavaScript, and no experience with react. All my projects can be found on my GitHub.
+A coding bootcamp based in London. It runs over four months and is heavily focused on Web Development using
+Ruby and JavaScript. 
+TDD, DDD, MVC patterns, and Agile development are also heavily emphasised.
 
-### Northumbria University (2012 - 2014)
+### Apps Created
+
+•	Airbnb clone using Ruby and Sinatra. 
+•	Facebook clone using rails. 
+•	A home brew helper using React.
+
+All my projects can be found on my GitHub.
+
+### Northumbria University (2012 - 2014 to be concliuded 2023)
 
 -Biomedical Science
 
