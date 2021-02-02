@@ -78,7 +78,7 @@ A friendly, bright and hardworking individual who works great as part of a team.
 #### Excellent Interpersonal Skills
 
 I am approachable, friendly, and trustworthy. During my time at Makers, many of my fellow students approached me when they encountered problems, be it with their code or something more personal.
-Working as a property manager, I was the first contact for landlords, tenants and contractors. Thus, I had to develop different processes for communicating and working 
+Working as a property manager, I was the first contact for landlords, tenants and contractors. Thus, I had to develop different processes for communicating and working with individuals in different roles and from diverse backgrounds.
 
 
 #### Creativity and Problem-Solving
