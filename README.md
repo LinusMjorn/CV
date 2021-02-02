@@ -93,6 +93,15 @@ While working for Veeve, my manager gave me complete autonomy to manage my own w
 #### Public Speaking 
 Whilst at Makers, I always volunteered to present our group projects to the cohort. I enjoyed gaining an in-depth knowledge of every part of the projects and relaying them to the audience.  
 
+## Work Experience
+
+**Mountgrange Heritage** (Oct-19 to Aug-20)  
+_Property Manager_
+
+**Veeve** (Jul-17 to Apr-19)  
+_Property Manager_
+
+
 ## Qualifications
 
 ### Makers Academy
@@ -101,7 +110,7 @@ A coding bootcamp based in London. It runs over four months and is heavily focus
 Ruby and JavaScript. 
 TDD, DDD, MVC patterns, and Agile development are also heavily emphasised.
 
-### Apps Created
+#### Apps Created
 
 •	Airbnb clone using Ruby and Sinatra. 
 •	Facebook clone using rails. 
@@ -109,17 +118,11 @@ TDD, DDD, MVC patterns, and Agile development are also heavily emphasised.
 
 All my projects can be found on my GitHub.
 
-### Northumbria University (2012 - 2014 to be concliuded 2023)
+## Education
+
+### Northumbria University (2012 - 2014 to be concluded 2023)
 
 -Biomedical Science
-
-## Previous Jobs
-
-**Mountgrange Heritage** (Oct-19 to Aug-20)  
-_Property Manager_
-
-**Veeve** (Jul-17 to Apr-19)  
-_Property Manager_
 
 ## Hobbies
 
